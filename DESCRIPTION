@@ -1,0 +1,13 @@
+Package: BSgenome.Carabica.NCBI.Cara1.0
+Title: Full genomic sequences for Coffea arabica (NCBI assembly Cara_1.0)
+Description: Full genomic sequences for Coffea arabica as provided by NCBI (assembly Cara_1.0, assembly accession GCF_003713225.1). The sequences are stored in DNAString objects.
+Version: 1.0.0
+Author: Piero Palacios Bernuy <p.palacios.bernuy@gmail.com>
+Maintainer: Piero Palacios Bernuy <p.palacios.bernuy@gmail.com>
+Depends: R (>= 4.2.0), GenomeInfoDb (>= 1.34.9), BSgenome (>= 1.66.1)
+Suggests: BSgenomeForge
+License: Artistic-2.0
+organism: Coffea arabica
+provider: NCBI
+genome: Cara_1.0
+biocViews: AnnotationData, Genetics, BSgenome, Coffea_arabica
